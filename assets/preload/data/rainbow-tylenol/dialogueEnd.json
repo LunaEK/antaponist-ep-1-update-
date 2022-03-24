@@ -1,0 +1,164 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Damn, you're tough."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Out of curiousity..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rd",
+			"boxState": "shocked",
+			"expression": "shocked",
+			"text": "C-can I take these socks with me?"
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Go ahead."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "facehoof",
+			"text": "*facehoof*"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "facehoof",
+			"text": "Embarrassing."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Didn't ya realize that ya were feeding a troll?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "(I realized that.)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why don't y'all just ignore..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "and kick her out of Ponyville *by force*?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "(... I never realized that was an option.)"
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "I agree."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Enough talking, leave Ponyville!"
+		},
+		{
+			"sound": "thunder",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "(Thunder out of nowhere?)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "I'll teleport you out!"
+		},
+		{
+			"sound": "thunder",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "(Who the heck is controlling the weather?)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Let me handle this."
+		}
+	]
+}

@@ -1,0 +1,188 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Correct. There's no right answer."
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I didn't press left or right because I don't know the answer."
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Thanks for revealing your answer!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Rainbow... Applejack..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, we've overheard everything."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But don't worry Twilight..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rd",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "I'll mess with her!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rd",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Hey, whoever you are!"
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rd",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "I won't play your game!"
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Did I ask you?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "N-no? M-maybe? But!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Those striped socks seems suspicious tho."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "W-Why would we need to wear socks anyway?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rd",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "*tries to press the floor piano*"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh I see, it doesn't work without socks."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rd",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Somepony who designed this floor piano doesn't have the right mind."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I've played this before and doesn't require socks at all!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Too bad, I play it with my wings."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rd",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Which means it won't register my input."
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, don't worry, here's your *wing socks*."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rd",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "... THAT THING EXIST?"
+		}
+	]
+}

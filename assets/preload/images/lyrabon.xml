@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lyrabon.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lyrabon0000" x="0" y="0" width="437" height="389"/>
+	<SubTexture name="lyrabon0001" x="0" y="0" width="437" height="389"/>
+	<SubTexture name="lyrabon0002" x="437" y="0" width="437" height="389"/>
+	<SubTexture name="lyrabon0003" x="437" y="0" width="437" height="389"/>
+	<SubTexture name="lyrabon0004" x="0" y="389" width="437" height="389"/>
+	<SubTexture name="lyrabon0005" x="0" y="389" width="437" height="389"/>
+	<SubTexture name="lyrabon0006" x="437" y="389" width="437" height="389"/>
+	<SubTexture name="lyrabon0007" x="437" y="389" width="437" height="389"/>
+</TextureAtlas>

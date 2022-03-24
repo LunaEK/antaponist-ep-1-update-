@@ -1,0 +1,103 @@
+{
+	"position": [
+		240,
+		105
+	],
+	"dialogue_pos": "left",
+	"no_antialiasing": false,
+	"scale": 1.25,
+	"image": "ts_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "tstalk",
+			"loop_name": "tstalk"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "tsexcited",
+			"loop_name": "tsexcited"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "tspissed",
+			"loop_name": "tspissed"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "tsshocked",
+			"loop_name": "tsshocked"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "tsconfused",
+			"idle_name": "tsconfused"
+		},
+		{
+			"loop_name": "tsthisisbad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "tsthisisbad",
+			"anim": "thisisbad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "tsfacehoof",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "tsfacehoof",
+			"anim": "facehoof",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

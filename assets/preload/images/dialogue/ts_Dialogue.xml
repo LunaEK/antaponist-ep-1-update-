@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ts_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tsconfused0000" x="0" y="0" width="284" height="342"/>
+	<SubTexture name="tsexcited0000" x="284" y="0" width="284" height="342"/>
+	<SubTexture name="tsfacehoof0000" x="568" y="0" width="284" height="342"/>
+	<SubTexture name="tspissed0000" x="852" y="0" width="284" height="342"/>
+	<SubTexture name="tsshocked0000" x="1136" y="0" width="284" height="342"/>
+	<SubTexture name="tstalk0000" x="1420" y="0" width="284" height="342"/>
+	<SubTexture name="tsthisisbad0000" x="1704" y="0" width="284" height="342"/>
+</TextureAtlas>

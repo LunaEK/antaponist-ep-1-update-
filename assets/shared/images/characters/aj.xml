@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="aj.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ajidle0000" x="0" y="0" width="819" height="678"/>
+	<SubTexture name="ajidle0001" x="0" y="0" width="819" height="678"/>
+	<SubTexture name="ajidle0002" x="819" y="0" width="819" height="678"/>
+	<SubTexture name="ajidle0003" x="819" y="0" width="819" height="678"/>
+	<SubTexture name="ajidle0004" x="0" y="678" width="819" height="678"/>
+	<SubTexture name="ajidle0005" x="0" y="678" width="819" height="678"/>
+	<SubTexture name="ajidle0006" x="819" y="678" width="819" height="678"/>
+	<SubTexture name="ajidle0007" x="819" y="678" width="819" height="678"/>
+	<SubTexture name="ajidle0008" x="0" y="1356" width="819" height="678"/>
+	<SubTexture name="ajidle0009" x="0" y="1356" width="819" height="678"/>
+</TextureAtlas>

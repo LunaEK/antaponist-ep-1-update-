@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="aj_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ajconfused0000" x="0" y="0" width="337" height="445"/>
+	<SubTexture name="ajexcited0000" x="337" y="0" width="337" height="445"/>
+	<SubTexture name="ajpissed0000" x="674" y="0" width="337" height="445"/>
+	<SubTexture name="ajshocked0000" x="1011" y="0" width="337" height="445"/>
+	<SubTexture name="ajtalk0000" x="1348" y="0" width="337" height="445"/>
+</TextureAtlas>

@@ -1,0 +1,252 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Excuse me, miss..."
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Miss..."
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ms. Why Would You Do That?"
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Oh, I don't know."
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "She put herself in this situation."
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm just expressing my own opinion."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You seem to be lacking common decency."
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Am I?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Read any good books lately?"
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Books are for the weak."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Nice try."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "(I see...)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "(It's obvious that her intention is...)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "(to annoy ponies for her own pleasure.)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm sorry, but I don't have experience with the floor piano."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Unless I set my own game rules."
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sure."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If you lose, leave Ponyville."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "And you won't get anything for winning."
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sure."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "(Jeez, that wasn't unfair enough for you?)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Here's a question."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Your parents have been ponynapped."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "And you can only rescue one."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Press left to save your mother."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Press right to save your father."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Which one will you rescue?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "You have 10 seconds to answer!"
+		}
+	]
+}

@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rd",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "You weirdo."
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'll leave this town if I lose."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That offer is NOT good enough for me."
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But you have to win if you want to race me."
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Your wings look so strong, but you might be wrong."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rd",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "On second thought, I'll play it with hooves instead of my wings."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rd",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "There's no way I can lose this bet!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rd",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "I'll race you, beat you, and kick your ass out of Ponyville!"
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "By the way..."
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "You look cuter with socks on your hooves."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rd",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "S-shut up!"
+		}
+	]
+}

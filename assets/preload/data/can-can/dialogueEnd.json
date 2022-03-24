@@ -1,0 +1,212 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aj",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Well, looks like I *can't can't* beat ya."
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We're tied."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aj",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "TIED?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aj",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "What are ya talking about?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aj",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I lost! I didn't even press anything!"
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Exactly, you're no different than spectators."
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Which means I'm competing against no one."
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "And there are no conditions on what we will get when we're tied."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aj",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aj",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Aw shucks!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aj",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "At least Rarity and Fl-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aj",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "(OH NO DON'T SAY THEIR NAMES)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aj",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Nevermind."
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "What?"
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Two more ponies I can toy with?"
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Where are they?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "thisisbad",
+			"text": "(This is bad...)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Now wait a second, that's NOT how tie works!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Applejack surrenders, which means you WON!"
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, I can explain more about that..."
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "After I play with those two ponies you\\nmentioned, Orangie."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aj",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "!!?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "thisisbad",
+			"text": "(I must inform them about this immediately)"
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Hey!"
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Don't run away from me, Bookie."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ts",
+			"boxState": "normal",
+			"expression": "thisisbad",
+			"text": "!!?"
+		}
+	]
+}

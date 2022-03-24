@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rd_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rdconfused0000" x="0" y="0" width="313" height="353"/>
+	<SubTexture name="rdexcited0000" x="313" y="0" width="313" height="353"/>
+	<SubTexture name="rdpissed0000" x="626" y="0" width="313" height="353"/>
+	<SubTexture name="rdshocked0000" x="939" y="0" width="313" height="353"/>
+	<SubTexture name="rdtalk0000" x="1252" y="0" width="313" height="353"/>
+</TextureAtlas>

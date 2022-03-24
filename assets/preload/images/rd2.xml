@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rd2.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rd20000" x="0" y="0" width="376" height="369"/>
+	<SubTexture name="rd20001" x="0" y="0" width="376" height="369"/>
+	<SubTexture name="rd20002" x="376" y="0" width="376" height="369"/>
+	<SubTexture name="rd20003" x="376" y="0" width="376" height="369"/>
+	<SubTexture name="rd20004" x="0" y="369" width="376" height="369"/>
+	<SubTexture name="rd20005" x="0" y="369" width="376" height="369"/>
+	<SubTexture name="rd20006" x="376" y="369" width="376" height="369"/>
+	<SubTexture name="rd20007" x="376" y="369" width="376" height="369"/>
+</TextureAtlas>

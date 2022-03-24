@@ -1,0 +1,59 @@
+{
+	"storyName": "Antaponist Ep. 1",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "antaponist1",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Pinkie Race",
+			"pp",
+			[
+				237,
+				69,
+				142
+			]
+		],
+		[
+			"Timer",
+			"ts",
+			[
+				102,
+				45,
+				139
+			]
+		],
+		[
+			"Rainbow Tylenol",
+			"rd",
+			[
+				29,
+				152,
+				213
+			]
+		],
+		[
+			"Can Can",
+			"aj",
+			[
+				96,
+				189,
+				81
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Antaponist Ep. 1"
+}

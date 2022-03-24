@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ts.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tsdown0000" x="0" y="0" width="819" height="677"/>
+	<SubTexture name="tsdown0001" x="819" y="0" width="819" height="677"/>
+	<SubTexture name="tsdown0002" x="1638" y="0" width="819" height="677"/>
+	<SubTexture name="tsdown0003" x="2457" y="0" width="819" height="677"/>
+	<SubTexture name="tsidle0000" x="3276" y="0" width="819" height="678"/>
+	<SubTexture name="tsidle0001" x="3276" y="0" width="819" height="678"/>
+	<SubTexture name="tsidle0002" x="0" y="678" width="819" height="678"/>
+	<SubTexture name="tsidle0003" x="0" y="678" width="819" height="678"/>
+	<SubTexture name="tsidle0004" x="819" y="678" width="819" height="678"/>
+	<SubTexture name="tsidle0005" x="819" y="678" width="819" height="678"/>
+	<SubTexture name="tsidle0006" x="1638" y="678" width="819" height="678"/>
+	<SubTexture name="tsidle0007" x="1638" y="678" width="819" height="678"/>
+	<SubTexture name="tsidle0008" x="2457" y="678" width="819" height="678"/>
+	<SubTexture name="tsidle0009" x="2457" y="678" width="819" height="678"/>
+	<SubTexture name="tsup0000" x="3276" y="678" width="819" height="677"/>
+	<SubTexture name="tsup0001" x="0" y="1356" width="819" height="677"/>
+	<SubTexture name="tsup0002" x="819" y="1356" width="819" height="677"/>
+	<SubTexture name="tsup0003" x="1638" y="1356" width="819" height="677"/>
+</TextureAtlas>

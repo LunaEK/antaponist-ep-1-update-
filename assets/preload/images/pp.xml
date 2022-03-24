@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pp.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pp0000" x="0" y="0" width="376" height="369"/>
+	<SubTexture name="pp0001" x="0" y="0" width="376" height="369"/>
+	<SubTexture name="pp0002" x="376" y="0" width="376" height="369"/>
+	<SubTexture name="pp0003" x="376" y="0" width="376" height="369"/>
+	<SubTexture name="pp0004" x="0" y="369" width="376" height="369"/>
+	<SubTexture name="pp0005" x="0" y="369" width="376" height="369"/>
+	<SubTexture name="pp0006" x="376" y="369" width="376" height="369"/>
+	<SubTexture name="pp0007" x="376" y="369" width="376" height="369"/>
+</TextureAtlas>

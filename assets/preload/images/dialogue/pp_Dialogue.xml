@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pp_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ppconfused0000" x="0" y="0" width="385" height="379"/>
+	<SubTexture name="ppexcited0000" x="385" y="0" width="385" height="379"/>
+	<SubTexture name="pppissed0000" x="770" y="0" width="385" height="379"/>
+	<SubTexture name="ppshocked0000" x="1155" y="0" width="385" height="379"/>
+	<SubTexture name="pptalk0000" x="1540" y="0" width="385" height="379"/>
+</TextureAtlas>

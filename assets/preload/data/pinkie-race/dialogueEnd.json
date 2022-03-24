@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Pies..."
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.05,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "are..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pp",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "I can't take it! Make it stop!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pp",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "T-Twilight! Help me!"
+		}
+	]
+}

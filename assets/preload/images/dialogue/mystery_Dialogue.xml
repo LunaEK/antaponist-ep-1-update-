@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mystery_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mysteryconfused0000" x="0" y="0" width="316" height="351"/>
+	<SubTexture name="mysteryexcited0000" x="316" y="0" width="316" height="351"/>
+	<SubTexture name="mysterypissed0000" x="632" y="0" width="316" height="351"/>
+	<SubTexture name="mysteryshocked0000" x="948" y="0" width="316" height="351"/>
+	<SubTexture name="mysterytalk0000" x="1264" y="0" width="316" height="351"/>
+</TextureAtlas>
