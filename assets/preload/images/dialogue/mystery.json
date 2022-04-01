@@ -1,14 +1,14 @@
 {
 	"dialogue_pos": "right",
 	"position": [
-		-107,
-		90
+		-50,
+		70
 	],
 	"no_antialiasing": false,
-	"scale": 1.25,
+	"scale": 1.35,
 	"animations": [
 		{
-			"anim": "talk",
+			"anim": "exp1",
 			"loop_offsets": [
 				0,
 				0
@@ -17,60 +17,60 @@
 				0,
 				0
 			],
-			"loop_name": "mysterytalk",
-			"idle_name": "mysterytalk"
+			"loop_name": "exp1",
+			"idle_name": "exp1"
 		},
 		{
 			"loop_offsets": [
 				0,
 				0
 			],
-			"anim": "excited",
+			"anim": "exp2",
 			"idle_offsets": [
 				0,
 				0
 			],
-			"loop_name": "mysteryexcited",
-			"idle_name": "mysteryexcited"
+			"loop_name": "exp2",
+			"idle_name": "exp2"
 		},
 		{
 			"loop_offsets": [
 				0,
 				0
 			],
-			"anim": "pissed",
+			"anim": "exp3",
 			"idle_offsets": [
 				0,
 				0
 			],
-			"loop_name": "mysterypissed",
-			"idle_name": "mysterypissed"
+			"loop_name": "exp3",
+			"idle_name": "exp3"
 		},
 		{
 			"loop_offsets": [
 				0,
 				0
 			],
-			"anim": "shocked",
+			"anim": "exp4",
 			"idle_offsets": [
 				0,
 				0
 			],
-			"loop_name": "mysteryshocked",
-			"idle_name": "mysteryshocked"
+			"loop_name": "exp4",
+			"idle_name": "exp4"
 		},
 		{
 			"idle_offsets": [
 				0,
 				0
 			],
-			"anim": "confused",
+			"anim": "exp5",
 			"loop_offsets": [
 				0,
 				0
 			],
-			"idle_name": "mysteryconfused",
-			"loop_name": "mysteryconfused"
+			"idle_name": "exp5",
+			"loop_name": "exp5"
 		}
 	],
 	"image": "mystery_Dialogue"

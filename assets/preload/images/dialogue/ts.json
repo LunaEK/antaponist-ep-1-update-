@@ -1,103 +1,103 @@
 {
-	"position": [
-		240,
-		105
-	],
 	"dialogue_pos": "left",
+	"position": [
+		180,
+		78
+	],
 	"no_antialiasing": false,
-	"scale": 1.25,
-	"image": "ts_Dialogue",
+	"scale": 1.35,
 	"animations": [
 		{
-			"idle_offsets": [
-				0,
-				0
-			],
+			"anim": "exp1",
 			"loop_offsets": [
 				0,
 				0
 			],
-			"anim": "talk",
-			"idle_name": "tstalk",
-			"loop_name": "tstalk"
-		},
-		{
 			"idle_offsets": [
 				0,
 				0
 			],
-			"anim": "excited",
-			"loop_offsets": [
-				0,
-				0
-			],
-			"idle_name": "tsexcited",
-			"loop_name": "tsexcited"
-		},
-		{
-			"idle_offsets": [
-				0,
-				0
-			],
-			"anim": "pissed",
-			"loop_offsets": [
-				0,
-				0
-			],
-			"idle_name": "tspissed",
-			"loop_name": "tspissed"
-		},
-		{
-			"idle_offsets": [
-				0,
-				0
-			],
-			"anim": "shocked",
-			"loop_offsets": [
-				0,
-				0
-			],
-			"idle_name": "tsshocked",
-			"loop_name": "tsshocked"
+			"loop_name": "exp1",
+			"idle_name": "exp1"
 		},
 		{
 			"loop_offsets": [
 				0,
 				0
 			],
-			"anim": "confused",
+			"anim": "exp2",
 			"idle_offsets": [
 				0,
 				0
 			],
-			"loop_name": "tsconfused",
-			"idle_name": "tsconfused"
+			"loop_name": "exp2",
+			"idle_name": "exp2"
 		},
 		{
-			"loop_name": "tsthisisbad",
-			"idle_offsets": [
-				0,
-				0
-			],
-			"idle_name": "tsthisisbad",
-			"anim": "thisisbad",
 			"loop_offsets": [
 				0,
 				0
-			]
-		},
-		{
-			"loop_name": "tsfacehoof",
+			],
+			"anim": "exp3",
 			"idle_offsets": [
 				0,
 				0
 			],
-			"idle_name": "tsfacehoof",
-			"anim": "facehoof",
+			"loop_name": "exp3",
+			"idle_name": "exp3"
+		},
+		{
 			"loop_offsets": [
 				0,
 				0
-			]
+			],
+			"anim": "exp4",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "exp4",
+			"idle_name": "exp4"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "exp5",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "exp5",
+			"loop_name": "exp5"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "exp6",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "exp6",
+			"idle_name": "exp6"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "exp7",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "exp7",
+			"idle_name": "exp7"
 		}
-	]
+	],
+	"image": "ts_Dialogue"
 }

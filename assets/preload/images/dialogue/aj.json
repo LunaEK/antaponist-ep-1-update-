@@ -1,77 +1,77 @@
 {
-	"position": [
-		210,
-		45
-	],
 	"dialogue_pos": "left",
+	"position": [
+		180,
+		70
+	],
 	"no_antialiasing": false,
-	"scale": 1.25,
-	"image": "aj_Dialogue",
+	"scale": 1.35,
 	"animations": [
 		{
-			"idle_offsets": [
-				0,
-				0
-			],
+			"anim": "exp1",
 			"loop_offsets": [
 				0,
 				0
 			],
-			"anim": "talk",
-			"idle_name": "ajtalk",
-			"loop_name": "ajtalk"
-		},
-		{
 			"idle_offsets": [
 				0,
 				0
 			],
-			"anim": "excited",
-			"loop_offsets": [
-				0,
-				0
-			],
-			"idle_name": "ajexcited",
-			"loop_name": "ajexcited"
-		},
-		{
-			"idle_offsets": [
-				0,
-				0
-			],
-			"anim": "pissed",
-			"loop_offsets": [
-				0,
-				0
-			],
-			"idle_name": "ajpissed",
-			"loop_name": "ajpissed"
-		},
-		{
-			"idle_offsets": [
-				0,
-				0
-			],
-			"anim": "shocked",
-			"loop_offsets": [
-				0,
-				0
-			],
-			"idle_name": "ajshocked",
-			"loop_name": "ajshocked"
+			"loop_name": "exp1",
+			"idle_name": "exp1"
 		},
 		{
 			"loop_offsets": [
 				0,
 				0
 			],
-			"anim": "confused",
+			"anim": "exp2",
 			"idle_offsets": [
 				0,
 				0
 			],
-			"loop_name": "ajconfused",
-			"idle_name": "ajconfused"
+			"loop_name": "exp2",
+			"idle_name": "exp2"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "exp3",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "exp3",
+			"idle_name": "exp3"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "exp4",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "exp4",
+			"idle_name": "exp4"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "exp5",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "exp5",
+			"loop_name": "exp5"
 		}
-	]
+	],
+	"image": "aj_Dialogue"
 }

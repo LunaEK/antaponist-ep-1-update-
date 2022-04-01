@@ -1,77 +1,77 @@
 {
-	"position": [
-		230,
-		115
-	],
 	"dialogue_pos": "left",
+	"position": [
+		180,
+		75
+	],
 	"no_antialiasing": false,
-	"scale": 1.25,
-	"image": "rd_Dialogue",
+	"scale": 1.35,
 	"animations": [
 		{
-			"idle_offsets": [
-				0,
-				0
-			],
+			"anim": "exp1",
 			"loop_offsets": [
 				0,
 				0
 			],
-			"anim": "talk",
-			"idle_name": "rdtalk",
-			"loop_name": "rdtalk"
-		},
-		{
 			"idle_offsets": [
 				0,
 				0
 			],
-			"anim": "excited",
-			"loop_offsets": [
-				0,
-				0
-			],
-			"idle_name": "rdexcited",
-			"loop_name": "rdexcited"
-		},
-		{
-			"idle_offsets": [
-				0,
-				0
-			],
-			"anim": "pissed",
-			"loop_offsets": [
-				0,
-				0
-			],
-			"idle_name": "rdpissed",
-			"loop_name": "rdpissed"
-		},
-		{
-			"idle_offsets": [
-				0,
-				0
-			],
-			"anim": "shocked",
-			"loop_offsets": [
-				0,
-				0
-			],
-			"idle_name": "rdshocked",
-			"loop_name": "rdshocked"
+			"loop_name": "exp1",
+			"idle_name": "exp1"
 		},
 		{
 			"loop_offsets": [
 				0,
 				0
 			],
-			"anim": "confused",
+			"anim": "exp2",
 			"idle_offsets": [
 				0,
 				0
 			],
-			"loop_name": "rdconfused",
-			"idle_name": "rdconfused"
+			"loop_name": "exp2",
+			"idle_name": "exp2"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "exp3",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "exp3",
+			"idle_name": "exp3"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "exp4",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "exp4",
+			"idle_name": "exp4"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "exp5",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "exp5",
+			"loop_name": "exp5"
 		}
-	]
+	],
+	"image": "rd_Dialogue"
 }
