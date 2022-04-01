@@ -2,162 +2,162 @@
 	"dialogue": [
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "rd",
 			"boxState": "normal",
-			"expression": "talk",
+			"expression": "exp1",
 			"text": "Damn, you're tough."
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "rd",
 			"boxState": "normal",
-			"expression": "talk",
+			"expression": "exp1",
 			"text": "But..."
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "rd",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "Out of curiousity..."
+			"expression": "exp1",
+			"text": "Out of curiosity..."
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "rd",
-			"boxState": "shocked",
-			"expression": "shocked",
-			"text": "C-can I take these socks with me?"
+			"boxState": "exp4",
+			"expression": "exp4",
+			"text": "M-may I take these socks with me?"
 		},
 		{
 			"sound": "mystery",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "mystery",
 			"boxState": "normal",
-			"expression": "shocked",
+			"expression": "exp4",
 			"text": "Go ahead."
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "ts",
 			"boxState": "normal",
-			"expression": "facehoof",
+			"expression": "exp7",
 			"text": "*facehoof*"
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "ts",
 			"boxState": "normal",
-			"expression": "facehoof",
+			"expression": "exp7",
 			"text": "Embarrassing."
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "aj",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "Didn't ya realize that ya were feeding a troll?"
+			"expression": "exp1",
+			"text": "Didn't ya realize that we're feeding a troll?"
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "ts",
 			"boxState": "normal",
-			"expression": "shocked",
+			"expression": "exp4",
 			"text": "(I realized that.)"
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "aj",
 			"boxState": "normal",
-			"expression": "talk",
+			"expression": "exp1",
 			"text": "Why don't y'all just ignore..."
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "aj",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "and kick her out of Ponyville *by force*?"
+			"expression": "exp1",
+			"text": "and kick her out of Ponyville ''by force''?"
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "ts",
 			"boxState": "normal",
-			"expression": "confused",
+			"expression": "exp5",
 			"text": "(... I never realized that was an option.)"
 		},
 		{
 			"sound": "mystery",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "mystery",
 			"boxState": "normal",
-			"expression": "shocked",
+			"expression": "exp4",
 			"text": "I agree."
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "ts",
 			"boxState": "normal",
-			"expression": "pissed",
+			"expression": "exp3",
 			"text": "Enough talking, leave Ponyville!"
 		},
 		{
 			"sound": "thunder",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "ts",
 			"boxState": "normal",
-			"expression": "confused",
+			"expression": "exp5",
 			"text": "."
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "ts",
 			"boxState": "normal",
-			"expression": "confused",
+			"expression": "exp5",
 			"text": "(Thunder out of nowhere?)"
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "ts",
 			"boxState": "normal",
-			"expression": "pissed",
+			"expression": "exp3",
 			"text": "I'll teleport you out!"
 		},
 		{
 			"sound": "thunder",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "ts",
 			"boxState": "normal",
-			"expression": "talk",
+			"expression": "exp1",
 			"text": "."
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "ts",
 			"boxState": "normal",
-			"expression": "confused",
+			"expression": "exp5",
 			"text": "(Who the heck is controlling the weather?)"
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "aj",
 			"boxState": "normal",
-			"expression": "talk",
+			"expression": "exp1",
 			"text": "Let me handle this."
 		}
 	]
