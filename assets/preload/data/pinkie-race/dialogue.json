@@ -2,219 +2,219 @@
 	"dialogue": [
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "pp",
 			"boxState": "normal",
-			"expression": "talk",
+			"expression": "exp1",
 			"text": "Oh my gosh, oh my gosh, oh my gosh!"
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "pp",
 			"boxState": "normal",
-			"expression": "talk",
+			"expression": "exp1",
 			"text": "You must be new here!"
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "pp",
 			"boxState": "normal",
-			"expression": "excited",
+			"expression": "exp2",
 			"text": "Welcome to Ponyville!"
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "pp",
 			"boxState": "normal",
-			"expression": "excited",
+			"expression": "exp2",
 			"text": "My name is P-"
 		},
 		{
 			"sound": "mystery",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "mystery",
 			"boxState": "normal",
-			"expression": "talk",
+			"expression": "exp1",
 			"text": "Pinkie."
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "pp",
 			"boxState": "normal",
-			"expression": "talk",
+			"expression": "exp1",
 			"text": "Woah! You know my name?"
 		},
 		{
 			"sound": "mystery",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "mystery",
 			"boxState": "normal",
-			"expression": "talk",
+			"expression": "exp1",
 			"text": "No, I was guessing your name by color."
 		},
 		{
 			"sound": "mystery",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "mystery",
 			"boxState": "normal",
-			"expression": "talk",
+			"expression": "exp1",
 			"text": "Then add -ie on it."
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "pp",
 			"boxState": "normal",
-			"expression": "confused",
-			"text": "(In that case...)"
+			"expression": "exp5",
+			"text": "(Hmm... In that case...)"
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "pp",
 			"boxState": "normal",
-			"expression": "confused",
+			"expression": "exp5",
 			"text": "(Applejack is... Orangie?)"
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "pp",
 			"boxState": "normal",
-			"expression": "confused",
-			"text": "(That's racist!)"
+			"expression": "exp5",
+			"text": "(Twilight and Starlight are... Purplie?)"
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "pp",
 			"boxState": "normal",
-			"expression": "excited",
+			"expression": "exp2",
 			"text": "Hahaha good one!"
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "pp",
 			"boxState": "normal",
-			"expression": "talk",
+			"expression": "exp1",
 			"text": "What brings you to Ponyville?"
 		},
 		{
 			"sound": "mystery",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "mystery",
 			"boxState": "normal",
-			"expression": "talk",
+			"expression": "exp1",
 			"text": "I won't tell you."
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "pp",
 			"boxState": "normal",
-			"expression": "excited",
+			"expression": "exp2",
 			"text": "That's fine!"
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "pp",
 			"boxState": "normal",
-			"expression": "talk",
+			"expression": "exp1",
 			"text": "Why don't you come to Sugarcube Corner?"
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "pp",
 			"boxState": "normal",
-			"expression": "excited",
+			"expression": "exp2",
 			"text": "We'll serve you delicious pies for free!"
 		},
 		{
 			"sound": "mystery",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "mystery",
 			"boxState": "normal",
-			"expression": "talk",
+			"expression": "exp1",
 			"text": "(This is it...)"
 		},
 		{
 			"sound": "mystery",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "mystery",
 			"boxState": "normal",
-			"expression": "shocked",
+			"expression": "exp4",
 			"text": "Pies are disgusting."
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "pp",
 			"boxState": "normal",
-			"expression": "excited",
+			"expression": "exp2",
 			"text": "W-"
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "pp",
 			"boxState": "normal",
-			"expression": "pissed",
+			"expression": "exp3",
 			"text": "WHAT?!"
 		},
 		{
 			"sound": "mystery",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "mystery",
 			"boxState": "normal",
-			"expression": "talk",
+			"expression": "exp1",
 			"text": "Don't worry."
 		},
 		{
 			"sound": "mystery",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "mystery",
 			"boxState": "normal",
-			"expression": "shocked",
+			"expression": "exp4",
 			"text": "I'll take my word back..."
 		},
 		{
 			"sound": "mystery",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "mystery",
 			"boxState": "normal",
-			"expression": "pissed",
-			"text": "if you beat me in this game."
+			"expression": "exp3",
+			"text": "If you beat me in this game."
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "pp",
 			"boxState": "normal",
-			"expression": "pissed",
+			"expression": "exp3",
 			"text": "..."
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "pp",
 			"boxState": "normal",
-			"expression": "talk",
+			"expression": "exp1",
 			"text": "Oh! I know this musical instrument!"
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "pp",
 			"boxState": "normal",
-			"expression": "excited",
-			"text": "I'm gonna beat you for sure!"
+			"expression": "exp2",
+			"text": "You're gonna eat my pie for sure, and you're gonna love it!"
 		}
 	]
 }
