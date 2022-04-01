@@ -2,26 +2,26 @@
 	"dialogue": [
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "aj",
 			"boxState": "normal",
-			"expression": "talk",
+			"expression": "exp1",
 			"text": "Win or lose..."
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "aj",
 			"boxState": "normal",
-			"expression": "confused",
+			"expression": "exp5",
 			"text": "YOU! MUST! LEAVE! PONYVILLE!"
 		},
 		{
 			"sound": "mystery",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "mystery",
 			"boxState": "normal",
-			"expression": "shocked",
+			"expression": "exp4",
 			"text": "Sure."
 		}
 	]

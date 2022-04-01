@@ -2,210 +2,218 @@
 	"dialogue": [
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "aj",
 			"boxState": "normal",
-			"expression": "excited",
-			"text": "Well, looks like I *can't can't* beat ya."
+			"expression": "exp2",
+			"text": "Well, looks like I ''can't can't'' beat ya."
 		},
 		{
 			"sound": "mystery",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "mystery",
 			"boxState": "normal",
-			"expression": "talk",
+			"expression": "exp1",
 			"text": "We're tied."
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "aj",
 			"boxState": "normal",
-			"expression": "pissed",
+			"expression": "exp3",
 			"text": "TIED?!"
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "aj",
 			"boxState": "normal",
-			"expression": "confused",
+			"expression": "exp5",
 			"text": "What are ya talking about?!"
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "aj",
 			"boxState": "normal",
-			"expression": "confused",
+			"expression": "exp5",
 			"text": "I lost! I didn't even press anything!"
 		},
 		{
 			"sound": "mystery",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "mystery",
 			"boxState": "normal",
-			"expression": "talk",
+			"expression": "exp1",
 			"text": "Exactly, you're no different than spectators."
 		},
 		{
 			"sound": "mystery",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "mystery",
 			"boxState": "normal",
-			"expression": "shocked",
+			"expression": "exp4",
 			"text": "Which means I'm competing against no one."
 		},
 		{
 			"sound": "mystery",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "mystery",
 			"boxState": "normal",
-			"expression": "shocked",
-			"text": "And there are no conditions on what we will get when we're tied."
+			"expression": "exp4",
+			"text": "You literally said ''Win or lose, leave Ponyville''."
+		},
+		{
+			"sound": "mystery",
+			"speed": 0.03,
+			"portrait": "mystery",
+			"boxState": "normal",
+			"expression": "exp4",
+			"text": "But we're tied."
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "aj",
 			"boxState": "normal",
-			"expression": "pissed",
+			"expression": "exp3",
 			"text": "..."
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "aj",
 			"boxState": "normal",
-			"expression": "shocked",
+			"expression": "exp4",
 			"text": "Aw shucks!"
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "aj",
 			"boxState": "normal",
-			"expression": "shocked",
+			"expression": "exp4",
 			"text": "At least Rarity and Fl-"
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "aj",
 			"boxState": "normal",
-			"expression": "pissed",
+			"expression": "exp3",
 			"text": "(OH NO DON'T SAY THEIR NAMES)"
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "aj",
 			"boxState": "normal",
-			"expression": "confused",
+			"expression": "exp5",
 			"text": "Nevermind."
 		},
 		{
 			"sound": "mystery",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "mystery",
 			"boxState": "normal",
-			"expression": "shocked",
+			"expression": "exp4",
 			"text": "What?"
 		},
 		{
 			"sound": "mystery",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "mystery",
 			"boxState": "normal",
-			"expression": "pissed",
+			"expression": "exp3",
 			"text": "Two more ponies I can toy with?"
 		},
 		{
 			"sound": "mystery",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "mystery",
 			"boxState": "normal",
-			"expression": "excited",
+			"expression": "exp2",
 			"text": "Where are they?"
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "ts",
 			"boxState": "normal",
-			"expression": "thisisbad",
+			"expression": "exp6",
 			"text": "(This is bad...)"
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "ts",
 			"boxState": "normal",
-			"expression": "pissed",
+			"expression": "exp3",
 			"text": "Now wait a second, that's NOT how tie works!"
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "ts",
 			"boxState": "normal",
-			"expression": "pissed",
+			"expression": "exp3",
 			"text": "Applejack surrenders, which means you WON!"
 		},
 		{
 			"sound": "mystery",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "mystery",
 			"boxState": "normal",
-			"expression": "talk",
+			"expression": "exp1",
 			"text": "Oh, I can explain more about that..."
 		},
 		{
 			"sound": "mystery",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "mystery",
 			"boxState": "normal",
-			"expression": "pissed",
+			"expression": "exp3",
 			"text": "After I play with those two ponies you\\nmentioned, Orangie."
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "aj",
 			"boxState": "normal",
-			"expression": "pissed",
+			"expression": "exp3",
 			"text": "!!?"
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "ts",
 			"boxState": "normal",
-			"expression": "thisisbad",
+			"expression": "exp6",
 			"text": "(I must inform them about this immediately)"
 		},
 		{
 			"sound": "mystery",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "mystery",
 			"boxState": "normal",
-			"expression": "excited",
+			"expression": "exp2",
 			"text": "Hey!"
 		},
 		{
 			"sound": "mystery",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "mystery",
 			"boxState": "normal",
-			"expression": "pissed",
+			"expression": "exp3",
 			"text": "Don't run away from me, Bookie."
 		},
 		{
 			"sound": "",
-			"speed": 0.05,
+			"speed": 0.03,
 			"portrait": "ts",
 			"boxState": "normal",
-			"expression": "thisisbad",
+			"expression": "exp6",
 			"text": "!!?"
 		}
 	]
